@@ -26,7 +26,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 **PROGRAM**
 ```
-Developed by: SURYA D RegisterNumber: 24901185
+Developed by:Baradhan.L  RegisterNumber: 24005473
 ```
 SISO Shift Register
 ```
